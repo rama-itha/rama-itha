@@ -1,46 +1,35 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=4FF0CF&center=true&vCenter=true&width=640&lines=%24+whoami;Rama+Sai+Anudeep+Itha;Senior+Software+Engineer%2C+Security;Building+secure+software+and+AI+that+can+be+trusted" alt="Typing banner: Rama Sai Anudeep Itha, Senior Software Engineer, Security" />
+<img src="assets/header.svg" alt="Rama Sai Anudeep Itha: Senior Software Engineer, Security" width="100%" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-rama--itha.netlify.app-0d141a?style=flat-square&logo=netlify&logoColor=4FF0CF)](https://rama-itha.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-rama--itha-0d141a?style=flat-square&logo=linkedin&logoColor=4FF0CF)](https://www.linkedin.com/in/rama-itha/)
-[![Location](https://img.shields.io/badge/based%20in-Santa%20Clara%2C%20CA-0d141a?style=flat-square&logoColor=4FF0CF)](#)
+[![Portfolio](https://img.shields.io/badge/portfolio-rama--itha.netlify.app-0d141a?style=for-the-badge&logo=netlify&logoColor=4FF0CF)](https://rama-itha.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-rama--itha-0d141a?style=for-the-badge&logo=linkedin&logoColor=4FF0CF)](https://www.linkedin.com/in/rama-itha/)
 
 </div>
 
----
+I'm a security-minded engineer at **Teradata**. I build full-stack and mobile apps, and I'm putting my time into two things: **application and cloud security**, and **AI systems that are tested for abuse before they ship**.
 
-## `$ whoami`
+<img src="assets/tools.svg" alt="Tools: Python, JavaScript, React, Kotlin, Firebase, Jetpack Compose, AppSec, Threat Modeling" width="100%" />
 
-I'm a Senior Software Engineer on the security team at **Teradata**. I build full-stack and mobile applications, and I'm focused on two areas: **application and cloud security**, and **AI systems that are tested for abuse before they ship**.
+<img src="assets/operator.svg" alt="Operator profile with stats and skill levels" width="100%" />
 
-## `$ ls ~/projects`
+## `> active_operations`
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**Voyantra**](https://github.com/rama-itha/Voyantra) | Trip itinerary manager with live sync and shareable read-only or collaborative views | React, Firebase |
-| [**Prayaas-Book-Bank**](https://github.com/rama-itha/Prayaas-Book-Bank) | Android college book bank with QR-based issue and return | Kotlin, Jetpack Compose, Firebase, ML Kit |
-| [**Rama-Portfolio**](https://github.com/rama-itha/Rama-Portfolio) | Portfolio of full-stack and system design work | JavaScript |
+| Rank | Operation | What it does | Status |
+| :-: | --- | --- | :-: |
+| **S** | [Voyantra](https://github.com/rama-itha/Voyantra) | Trip planner with live sync and shareable read-only or collaborative itineraries (React, Firebase) | `SHIPPED` |
+| **S** | [Prayaas-Book-Bank](https://github.com/rama-itha/Prayaas-Book-Bank) | Android book bank with QR issue and return via ML Kit (Kotlin, Compose, Firebase) | `SHIPPED` |
+| **A** | [secretscan](https://github.com/rama-itha/secretscan) | Dependency-free secrets scanner: pre-commit hook, GitHub Action and CLI (Python) | `SHIPPED` |
+| **A** | [Rama-Portfolio](https://github.com/rama-itha/Rama-Portfolio) | Portfolio of full-stack and system design work | `LIVE` |
+| **S+** | LLM red-team harness | Tests LLM apps for prompt injection, data leakage and jailbreaks, mapped to the OWASP Top 10 for LLM Applications | `IN PROGRESS` |
+| **A** | CVE advisory RAG assistant | Ask questions about vulnerabilities and get cited answers | `PLANNED` |
 
-## `$ cat ~/roadmap.md`
+<img src="assets/footer.svg" alt="Let's build something unbreakable" width="100%" />
 
-Security and AI projects I'm building next. Each one will ship with tests, CI, a threat model and a short demo.
+<div align="center">
 
-- [ ] **LLM red-team harness**: automated tests for prompt injection, data leakage and jailbreaks, mapped to the OWASP Top 10 for LLM Applications
-- [ ] **CVE advisory RAG assistant**: ask questions about vulnerabilities and get answers with citations
-- [ ] **Secrets scanner**: pre-commit hook and GitHub Action using regex and entropy checks
-- [ ] **Mini SIEM**: log ingestion with Sigma-style detection rules mapped to MITRE ATT&CK
+[GitHub](https://github.com/rama-itha) · [LinkedIn](https://www.linkedin.com/in/rama-itha/) · [Portfolio](https://rama-itha.netlify.app/)
 
-## `$ cat ~/toolkit`
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d141a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-0d141a?style=flat-square&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0d141a?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![Firebase](https://img.shields.io/badge/-Firebase-0d141a?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Android](https://img.shields.io/badge/-Android-0d141a?style=flat-square&logo=android&logoColor=3DDC84)
-
-## `$ ./contact --secure`
-
-Reach me on [LinkedIn](https://www.linkedin.com/in/rama-itha/) or through my [portfolio](https://rama-itha.netlify.app/).
+</div>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace">
+<defs><pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#0e1c28" stroke-width="1"/></pattern></defs>
+<rect width="900" height="240" rx="10" fill="#060b12"/><rect width="900" height="240" rx="10" fill="url(#g)"/>
+<rect x=".5" y=".5" width="899" height="239" rx="10" fill="none" stroke="#173041"/>
+<text x="28" y="44" font-size="18" font-weight="700" fill="#4ff0cf">&gt; tools_i_exploit --loaded</text><text x="872" y="44" text-anchor="end" font-size="12" fill="#ffb454">8 modules online</text><line x1="28" y1="56" x2="872" y2="56" stroke="#173041"/><g><rect x="28" y="80" width="200" height="60" rx="6" fill="#0b141d" stroke="#173041"/>
+<rect x="28" y="80" width="3" height="60" fill="#4ff0cf"/>
+<circle cx="48" cy="102" r="4" fill="#4ff0cf"><animate attributeName="opacity" values="1;.3;1" dur="2.0s" repeatCount="indefinite"/></circle>
+<text x="62" y="107" font-size="14" font-weight="700" fill="#d6e2e8">Python</text>
+<text x="62" y="126" font-size="11" fill="#7f95a1">scripting + tooling</text></g><g><rect x="242" y="80" width="200" height="60" rx="6" fill="#0b141d" stroke="#173041"/>
+<rect x="242" y="80" width="3" height="60" fill="#4ff0cf"/>
+<circle cx="262" cy="102" r="4" fill="#4ff0cf"><animate attributeName="opacity" values="1;.3;1" dur="2.3s" repeatCount="indefinite"/></circle>
+<text x="276" y="107" font-size="14" font-weight="700" fill="#d6e2e8">JavaScript</text>
+<text x="276" y="126" font-size="11" fill="#7f95a1">web + node</text></g><g><rect x="456" y="80" width="200" height="60" rx="6" fill="#0b141d" stroke="#173041"/>
+<rect x="456" y="80" width="3" height="60" fill="#4ff0cf"/>
+<circle cx="476" cy="102" r="4" fill="#4ff0cf"><animate attributeName="opacity" values="1;.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
+<text x="490" y="107" font-size="14" font-weight="700" fill="#d6e2e8">React</text>
+<text x="490" y="126" font-size="11" fill="#7f95a1">front-end</text></g><g><rect x="670" y="80" width="200" height="60" rx="6" fill="#0b141d" stroke="#173041"/>
+<rect x="670" y="80" width="3" height="60" fill="#4ff0cf"/>
+<circle cx="690" cy="102" r="4" fill="#4ff0cf"><animate attributeName="opacity" values="1;.3;1" dur="2.9s" repeatCount="indefinite"/></circle>
+<text x="704" y="107" font-size="14" font-weight="700" fill="#d6e2e8">Kotlin</text>
+<text x="704" y="126" font-size="11" fill="#7f95a1">android</text></g><g><rect x="28" y="154" width="200" height="60" rx="6" fill="#0b141d" stroke="#173041"/>
+<rect x="28" y="154" width="3" height="60" fill="#4ff0cf"/>
+<circle cx="48" cy="176" r="4" fill="#4ff0cf"><animate attributeName="opacity" values="1;.3;1" dur="3.2s" repeatCount="indefinite"/></circle>
+<text x="62" y="181" font-size="14" font-weight="700" fill="#d6e2e8">Firebase</text>
+<text x="62" y="200" font-size="11" fill="#7f95a1">realtime backend</text></g><g><rect x="242" y="154" width="200" height="60" rx="6" fill="#0b141d" stroke="#173041"/>
+<rect x="242" y="154" width="3" height="60" fill="#4ff0cf"/>
+<circle cx="262" cy="176" r="4" fill="#4ff0cf"><animate attributeName="opacity" values="1;.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
+<text x="276" y="181" font-size="14" font-weight="700" fill="#d6e2e8">Jetpack Compose</text>
+<text x="276" y="200" font-size="11" fill="#7f95a1">mobile UI</text></g><g><rect x="456" y="154" width="200" height="60" rx="6" fill="#0b141d" stroke="#173041"/>
+<rect x="456" y="154" width="3" height="60" fill="#4ff0cf"/>
+<circle cx="476" cy="176" r="4" fill="#4ff0cf"><animate attributeName="opacity" values="1;.3;1" dur="3.8s" repeatCount="indefinite"/></circle>
+<text x="490" y="181" font-size="14" font-weight="700" fill="#d6e2e8">AppSec</text>
+<text x="490" y="200" font-size="11" fill="#7f95a1">secure by default</text></g><g><rect x="670" y="154" width="200" height="60" rx="6" fill="#0b141d" stroke="#173041"/>
+<rect x="670" y="154" width="3" height="60" fill="#4ff0cf"/>
+<circle cx="690" cy="176" r="4" fill="#4ff0cf"><animate attributeName="opacity" values="1;.3;1" dur="4.1s" repeatCount="indefinite"/></circle>
+<text x="704" y="181" font-size="14" font-weight="700" fill="#d6e2e8">Threat Modeling</text>
+<text x="704" y="200" font-size="11" fill="#7f95a1">STRIDE</text></g></svg>

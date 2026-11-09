@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace">
+<defs><pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#0e1c28" stroke-width="1"/></pattern></defs>
+<rect width="900" height="120" rx="10" fill="#060b12"/><rect width="900" height="120" rx="10" fill="url(#g)"/>
+<rect x=".5" y=".5" width="899" height="119" rx="10" fill="none" stroke="#173041"/>
+<text x="450" y="52" text-anchor="middle" font-size="22" font-weight="700" fill="#4ff0cf">Let's build something unbreakable.</text>
+<text x="450" y="80" text-anchor="middle" font-size="13" fill="#7f95a1">secure by design · tested before shipped · open to collaboration</text>
+<rect x="30" y="98" width="840" height="2" fill="#4ff0cf" opacity=".5"><animate attributeName="opacity" values=".1;.7;.1" dur="3s" repeatCount="indefinite"/></rect></svg>
